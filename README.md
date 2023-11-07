@@ -1,10 +1,6 @@
-# flutter_advanced_course
+# flutter_Weather_App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+a Flutter Project with Clean Architecture with Bloc , sqflite , hive, Retrofit, Dio, GetIt(Dependency Injection) and Test with BlocTest, UnitTest, WidgetTest, IntegrationTest
 
 A few resources to get you started if this is your first Flutter project:
 
